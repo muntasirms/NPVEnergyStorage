@@ -5,7 +5,7 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup and Use](#setup-and-use)
-* [Next Steps] (#next-steps)
+* [Next Steps](#next-steps)
 
 
 ## Introduction
