@@ -34,14 +34,14 @@ and other nominal charges beyond wholesale pricing. The default values are appro
 
 Parameters are broken up into the following categories:
 * Electricity Pricing Parameters
-** These are parameters associated with the randomized peak and trough electricity pricing, as well as the simulated storage time (to account for losses over time for, say, thermal storage)
+**These are parameters associated with the randomized peak and trough electricity pricing, as well as the simulated storage time (to account for losses over time for, say, thermal storage)
 
 * Storage Technology Parameters
-** Parameters associated with the specific energy storage technology under analysis. This is where values like capacity, efficiency, and heat/energy recycling can be adjusted.
+**Parameters associated with the specific energy storage technology under analysis. This is where values like capacity, efficiency, and heat/energy recycling can be adjusted.
 
-*Simulation Parameters
-** Parameters regarding the plant life (simulated years), as well as the number of simulations run can be adjusted here. More simulations increases accuracy at the cost of computing power and simulation time.
+* Simulation Parameters
+**Parameters regarding the plant life (simulated years), as well as the number of simulations run can be adjusted here. More simulations increases accuracy at the cost of computing power and simulation time.
 
 * Economic Parameters
-** Initial investment cost parameters, loan periods, equity, loan rates, internal rate of return, and depreciation rates can be adjusted here. Operating cost parameters are a subcategory of this.
+**Initial investment cost parameters, loan periods, equity, loan rates, internal rate of return, and depreciation rates can be adjusted here. Operating cost parameters are a subcategory of this.
 
