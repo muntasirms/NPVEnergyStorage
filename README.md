@@ -1,6 +1,7 @@
-# NPVEnergyStorage - Quick Energy Storage TEA
+# NPVEnergyStorage - Energy Storage TEA Tool
 
 ##Table of Contents
+
 *[Introduction](#introduction)
 *[Technologies](#technologies)
 *[Setup and Use](#setup-and-use)
