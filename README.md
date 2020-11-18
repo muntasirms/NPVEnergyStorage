@@ -1,6 +1,6 @@
 # NPVEnergyStorage - Energy Storage TEA Tool
 
-##Table of Contents
+## Table of Contents
 
 * [Introduction](#introduction)
 * [Technologies](#technologies)
