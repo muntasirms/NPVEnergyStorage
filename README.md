@@ -5,6 +5,7 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup and Use](#setup-and-use)
+* [Next Steps] (#next-steps)
 
 
 ## Introduction
@@ -45,3 +46,6 @@ Parameters are broken up into the following categories:
 * Economic Parameters
   * Initial investment cost parameters, loan periods, equity, loan rates, internal rate of return, and depreciation rates can be adjusted here. Operating cost parameters are a subcategory of this.
 
+## Next Steps
+
+Planning on adding a GUI for ease of access to variables and user friendliness. Also looking to format the graphs so they arent default matplotlib graphs.
