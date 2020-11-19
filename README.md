@@ -41,7 +41,7 @@ Parameters are broken up into the following categories:
   * Parameters associated with the specific energy storage technology under analysis. This is where values like capacity, efficiency, and heat/energy recycling can be adjusted.
 
 * Simulation Parameters
-  * Parameters regarding the plant life (simulated years), as well as the number of simulations run can be adjusted here. More simulations increases accuracy at the cost of computing power and simulation time.
+  * Parameters regarding the plant life (simulated years), as well as the number of simulations run can be adjusted here. More simulations increase accuracy at the cost of computing power and simulation time.
 
 * Economic Parameters
   * Initial investment cost parameters, loan periods, equity, loan rates, internal rate of return, and depreciation rates can be adjusted here. Operating cost parameters are a subcategory of this.
