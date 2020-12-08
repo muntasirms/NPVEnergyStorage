@@ -1,7 +1,6 @@
 # each line represents a single unit
 # each point of a line is a simulated day with randomized parameters
 # we are looking to see each percentile's profit after a given amount of simulated days of multiple simulated units
-# this is a tool for powell--so keep things easy to change--variables at the top and clearly labeled, code commented and understandable
 # model lithium ion and thermal as you guys found--maybe find a more competitive efficiency for thermal online
 # you can use peak and trough pricing as a generalized model--but how can you simulate changes in price?
 #currently assuming 0% equity
@@ -102,7 +101,7 @@ def cashFlow(year):
     preTax = 0
     loanTime = 0
 
-    workerPay = 10
+    workerPay = 1000000       #approximated annual labor cost (until fix for reading labor cost dictionary)
 
         # workers.get('Plant Manager') * salary.get('Plant Manager') + workers.get('Plant Engineer') * salary.get(
         # 'Plant Engineer') + workers.get('Maintenance Supervisor') * salary.get('Maintenance Supervisor') + workers.get(
